@@ -3,11 +3,9 @@ Code Katas in C#
 
 This is a collection of Code Katas. Done in C# through a TDD approach.
 
-* FizzBuzz
-* Fibonacci
-* Checkout
-* String Calculator
-
+How to proceed
+---------
+You should create a separate project, name it as "Solution_{NameOfTheProject}" and use the two provided classes for each excercise.
 
 Fizzbuzz
 ---------
